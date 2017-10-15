@@ -1,6 +1,14 @@
 package lab1;
 //grlwefdew
+<<<<<<< HEAD
 //3123
+=======
+<<<<<<< HEAD
+//313232
+=======
+//212
+>>>>>>> C4
+>>>>>>> B1
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;

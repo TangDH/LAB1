@@ -1,6 +1,14 @@
 package lab1;
 //fwqhfbweuh
+<<<<<<< HEAD
 //31234
+=======
+<<<<<<< HEAD
+//233234
+=======
+//322
+>>>>>>> C4
+>>>>>>> B1
 import com.sun.image.codec.jpeg.JPEGCodec;
 import com.sun.image.codec.jpeg.JPEGImageEncoder;
 
