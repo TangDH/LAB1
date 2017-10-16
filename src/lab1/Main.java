@@ -1,5 +1,6 @@
 package lab1;
 //grlwefdew
+//wgs
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
