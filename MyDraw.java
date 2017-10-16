@@ -2,7 +2,7 @@ package lab1;
 //213
 import com.sun.image.codec.jpeg.JPEGCodec;
 import com.sun.image.codec.jpeg.JPEGImageEncoder;
-
+//12312
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
